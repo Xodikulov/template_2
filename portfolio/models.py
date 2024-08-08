@@ -1,8 +1,5 @@
 from django.db import models
 from ckeditor.fields import RichTextField
-from hitcount.models import HitCountMixin,HitCount
-from django.contrib.contenttypes.fields import GenericRelation
-from django.utils.text import slugify
 
 
 
